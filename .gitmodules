@@ -1,0 +1,3 @@
+[submodule "fleet-tracker-server"]
+	path = fleet-tracker-server
+	url = https://github.com/zfor/fleet-tracker-server.git
